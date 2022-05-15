@@ -1,5 +1,5 @@
 //based on a pen by @robinselmer
-var url = "https://api.minetools.eu/ping/mc.hypixel.net/25565";
+var url = "https://api.minetools.eu/ping/minecamps.ga/25565";
  
 $.getJSON(url, function(r) {
     //data is the JSON string
